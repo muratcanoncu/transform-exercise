@@ -35,6 +35,7 @@ li:hover {
     animation-delay: 1s;
     animation-iteration-count: 1;
     animation-fill-mode: backwards;
+    cursor: pointer;
 }
 @keyframes one{
     from {
@@ -51,6 +52,7 @@ li:hover {
     animation-delay: 2s;
     animation-iteration-count: 1;
     animation-fill-mode: backwards;
+    cursor: pointer;
 }
 @keyframes two {
     from {
@@ -67,6 +69,7 @@ li:hover {
     animation-delay: 3s;
     animation-iteration-count: 1;
     animation-fill-mode: backwards;
+    cursor: pointer;
 }
 @keyframes three {
     from {
